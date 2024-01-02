@@ -1,0 +1,7 @@
+# Default
+WEIGHT = 'ramdom'
+ACTIVATION = 'sigmoid'
+NEURON = 2
+EPOCHS = 1000
+LEARNINGRATE = 0.01
+BATCHSIZE=2
